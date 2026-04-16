@@ -85,7 +85,7 @@ As páginas estão interligadas, permitindo navegação entre elas.
  Abrir o projeto
  (Visual Studio Code ou Visual Studio)
 
-## No terminal, executar:
+## Terminal, executar:
 ```bash
 dotnet run
 
